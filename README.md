@@ -9,6 +9,9 @@ Une application web simple et intuitive permettant aux agriculteurs de calculer 
 -  Affichage en Francs CFA (FCFA)
 -  Résultats détaillés avec pourcentage de marge
 -  Interface colorée selon la rentabilité (vert = bénéfice, rouge = perte)
+-  <img width="807" height="947" alt="Capture d’écran du 2025-08-19 12-05-04" src="https://github.com/user-attachments/assets/0d15c0a2-44cb-4e8b-b8ef-99def94670f7" />
+
+-  
 
 ##  Utilisation
 
